@@ -35,7 +35,7 @@ def monopoly_with_third_tier
   }
 end
 
-#
+#Updating each of the nested hashes inside the :names hash
 def monopoly_with_fourth_tier
  { :railroads => {
      :pieces => 4,
