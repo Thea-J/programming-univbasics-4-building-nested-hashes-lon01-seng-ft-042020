@@ -1,7 +1,6 @@
 #Return a hash with one key that points to an empty hash
 def base_hash
- {
-   :railroads => {}
+ { :railroads => {}
  }
 end
 
